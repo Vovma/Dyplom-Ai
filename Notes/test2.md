@@ -43,7 +43,7 @@ This note was automatically created from **Make.com** using the **GitHub REST AP
 
 ## 🖼 Test Image
 
-![Obsidian Logo](https://upload.wikimedia.org/wikipedia/commons/3/3e/Obsidian_logo.svg)
+![Obsidian Logo|205](https://upload.wikimedia.org/wikipedia/commons/3/3e/Obsidian_logo.svg)
 
 ---
 
