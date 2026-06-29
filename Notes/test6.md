@@ -69,8 +69,8 @@ hello()
 - [x] Create repository
 - [x] Connect GitHub
 - [x] Configure Obsidian Git
-- [ ] Connect Telegram Bot
-- [ ] Connect Make.com
+- [x] Connect Telegram Bot
+- [x] Connect Make.com
 - [ ] Build AI Knowledge Base
 
 ---
